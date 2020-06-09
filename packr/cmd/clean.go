@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/gobuffalo/packr/builder"
+	"github.com/patpir/packr/builder"
 	"github.com/spf13/cobra"
 )
 

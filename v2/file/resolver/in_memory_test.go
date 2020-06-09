@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gobuffalo/packr/v2/file"
+	"github.com/patpir/packr/v2/file"
 	"github.com/stretchr/testify/require"
 )
 

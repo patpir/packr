@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gobuffalo/packr/v2/jam/parser"
+	"github.com/patpir/packr/v2/jam/parser"
 )
 
 var _ Store = &Legacy{}

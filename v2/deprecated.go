@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/gobuffalo/packr/v2/file"
-	"github.com/gobuffalo/packr/v2/file/resolver"
+	"github.com/patpir/packr/v2/file"
+	"github.com/patpir/packr/v2/file/resolver"
 	"github.com/markbates/oncer"
 )
 

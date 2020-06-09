@@ -8,9 +8,9 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/gobuffalo/packr/v2/jam/parser"
-	"github.com/gobuffalo/packr/v2/jam/store"
-	"github.com/gobuffalo/packr/v2/plog"
+	"github.com/patpir/packr/v2/jam/parser"
+	"github.com/patpir/packr/v2/jam/store"
+	"github.com/patpir/packr/v2/plog"
 )
 
 // PackOptions ...

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gobuffalo/packr/v2/jam/store"
+	"github.com/patpir/packr/v2/jam/store"
 )
 
 //YesToAll will be used by the command to skip the questions

@@ -1,6 +1,6 @@
 package b
 
-import "github.com/gobuffalo/packr/v2"
+import "github.com/patpir/packr/v2"
 
 func init() {
 	packr.New("b-box", "../c")

@@ -22,7 +22,7 @@ To get an idea of the what and why of packr, please enjoy this short video: [htt
 To install Packr utility
 
 ```text
-$ go get -u github.com/gobuffalo/packr/packr
+$ go get -u github.com/patpir/packr/packr
 ```
 
 To get the dependency
